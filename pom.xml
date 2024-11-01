@@ -29,4 +29,10 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+         <distributionManagement>
+    <repository>
+        <id>Mallikarjun-S-H</id>
+        <url>https://github.com/Mallikarjun-S-H/Java-program1.git</url>
+    </repository>
+</distributionManagement>
 </project>
